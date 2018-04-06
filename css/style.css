@@ -314,6 +314,8 @@ html {
     height: 50vh; }
   .notifications_tenders .card {
     height: 47.2vh; }
+  .notifications .tabs .tab a {
+    font-size: 2rem; }
   .notifications .tabs-content {
     height: 65% !important; }
   .clubs {
