@@ -285,9 +285,10 @@ html {
   .notifications .tabs-content {
     height: 240px !important; }
   .clubs {
-    height: 80vh; }
+    height: 90vh; }
     .clubs ul.club_contain {
-      left: 47%; }
+      left: 47%;
+      top: 60%; }
       .clubs ul.club_contain li {
         width: 20rem; }
       .clubs ul.club_contain span {
@@ -295,4 +296,4 @@ html {
     .clubs .club-banner {
       margin-top: 5rem;
       width: 80%;
-      top: 50%; } }
+      top: 40%; } }
